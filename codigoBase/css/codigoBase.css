@@ -1,0 +1,23 @@
+:root{
+    /*Variabales Principales*/
+    --primario: #fff;
+    --secundario: #000;
+}
+
+html{
+    /*Reajustar el tamaño*/
+    font-size: 62.5%;
+    box-sizing: border-box;
+}
+
+*, *:before, *:after{
+    box-sizing: inherit;
+}
+
+body{
+    /*1rem = 10px*/
+    font-size: 16px;
+}
+
+
+
